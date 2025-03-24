@@ -82,3 +82,6 @@ Mac/Linux 安装Deno:
 3. cd 项目根目录
 4. netlify login
 5. netlify dev
+
+Deployed by me at 2025-03-24
+Commit directly to the main branch
